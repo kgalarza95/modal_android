@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PruebaModal</string>
+
+
+    <string-array name="list_opciones_menu">
+        <item name="op1">Opcion 1</item>
+        <item name="op2">Opcion 2</item>
+        <item name="op3">Opcion 3</item>
+    </string-array>
+</resources>
